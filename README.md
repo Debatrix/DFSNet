@@ -6,12 +6,12 @@
 
 ## Prerequisites
 
-python 3
-pytorch 1.0+
-torchvision 0.2+
-opencv 3.4
-scipy
-thop
+- python 3
+- pytorch 1.0+
+- torchvision 0.2+
+- opencv 3.4
+- scipy
+- thop
 
 ## Citing
 
