@@ -20,7 +20,7 @@ class LoadConfig(object):
     def __init__(self):
         self.info = ""
 
-        self.dataset_path = 'data/TJ-Eyes'
+        self.dataset_path = 'data/cx2'
         self.cp_path = "checkpoints/1203_202301_MobileNetV2_Lite/421_1.3395e-03.pth"
         self.cp_num = 5
         self.visible = True

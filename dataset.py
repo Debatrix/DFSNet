@@ -113,7 +113,7 @@ class monoSimDataset(BaseDataset):
 
 
 if __name__ == '__main__':
-    data = monoSimDataset(path='data/TJ-Eyes', debug_data=False)
+    data = monoSimDataset(path='data/cx2', debug_data=False)
     print(len(data))
     # print(data.label_list)
     for x, y, z in data:

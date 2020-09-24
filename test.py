@@ -22,8 +22,8 @@ class LoadConfig(object):
     def __init__(self):
 
         self.mode = 'test'
-        self.dataset_path = 'data/SD-Eyes'
-        self.model_path = "model/pretrained/1211_202056_MobileNetV2_Lite_TJ-Eyes.pth"
+        self.dataset_path = 'data/cx1'
+        self.model_path = "model/pretrained/1211_202056_MobileNetV2_Lite_cx2.pth"
         self.cfg.result_path = ""
 
         self.seed = 2248
