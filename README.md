@@ -2,13 +2,12 @@
 
 ![network](evaluation/result/network.png)
 
-[Paper](https://arxiv.org/abs/2009.00294)   [Dataset](http://www.cripacsir.cn/dataset/casia-iris-complex/)
+[Paper](https://arxiv.org/abs/2009.00294)   [Dataset](http://www.cripacsir.cn/dataset/casia-iris-degradation/)
 
 ## Prerequisites
 
-- python 3
-- pytorch 1.0+
-- torchvision 0.2+
+- pytorch 1.0
+- torchvision 0.2
 - opencv 3.4
 - scipy
 - thop
